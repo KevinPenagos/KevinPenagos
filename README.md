@@ -1,3 +1,14 @@
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/KevinPenagos/count.svg"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinPenagos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPenagos&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinPenagos&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
+
 # 💫 About Me:
 🎓 Aspiring Software Analysis & Development Technologist | 💻 Passionate about creating tech solutions<br>🧠 Logical thinker | 🤝 Customer service experience | 🚀 Always learning<br>🔧 Skills: Programming, Databases, Agile Methodologies<br>🌱 Looking to contribute, grow, and build meaningful software
 
