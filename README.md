@@ -1,12 +1,4 @@
 <div align="center">
-  <p>Visitor count</p>
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/KevinPenagos&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" />
-  </a>
-  <br/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinPenagos&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
@@ -69,9 +61,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPenagos&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=normal" alt="Top Languages" />
 </div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=KevinPenagos&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
