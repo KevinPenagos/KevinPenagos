@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinPenagos&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinPenagos&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffcc66&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 # 💫 About Me
@@ -59,7 +59,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPenagos&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=normal" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPenagos&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=normal" alt="Top Languages" />
 </div>
 
 ---
