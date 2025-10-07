@@ -7,28 +7,18 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinPenagos&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=KevinPenagos&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPenagos&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinPenagos&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
----
-
 # 💫 About Me:
-🎓 Aspiring Software Analysis & Development Technologist | 💻 Passionate about creating tech solutions  
-🧠 Logical thinker | 🤝 Customer service experience | 🚀 Always learning  
-🔧 Skills: Programming, Databases, Agile Methodologies  
+🎓 Aspiring Software Analysis & Development Technologist | 💻 Passionate about creating tech solutions<br>
+🧠 Logical thinker | 🤝 Customer service experience | 🚀 Always learning<br>
+🔧 Skills: Programming, Databases, Agile Methodologies<br>
 🌱 Looking to contribute, grow, and build meaningful software
-
----
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Kevinpenagos_13) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinpenagosieb@gmail.com) 
-
----
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -73,6 +63,12 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
 ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinPenagos&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
 ---
 
